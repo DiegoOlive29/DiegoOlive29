@@ -1,3 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Diego+de+Oliveira+Guimarães;Tenho+22+anos+e+sou+de+Guarulhos+SP;Sou+um+Desenvolvedor+Full+Stack:%29)](https://git.io/typing-svg)
+
+
 ### Olá, Me chamo Diego Oliveira, seja bem vindo ao meu github.
   
   Sou Desenvolvedor Full Stack, decidi sair da área da logística é buscar uma vontade antiga minha de trabalhar com programação, sou apaixonado por lógica e resolução de problemas e esse é só um dos motivos que me faz amar programação.
