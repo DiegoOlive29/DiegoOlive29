@@ -3,15 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Diego+de+Oliveira+Guimarães;Tenho+22+anos+e+sou+de+Guarulhos+SP;Sou+um+Desenvolvedor+Full+Stack:%29)](https://git.io/typing-svg)
 
 
-### Olá, Me chamo Diego Oliveira, seja bem vindo ao meu github.
+### Olá, me chamo Diego Oliveira, sejam bem vindos para o meu Github!
   
-  Sou Desenvolvedor Full Stack, decidi sair da área da logística é buscar uma vontade antiga minha de trabalhar com programação, sou apaixonado por lógica e resolução de problemas e esse é só um dos motivos que me faz amar programação.
+  Eu decidi sai da área da logística e buscar uma vontade antiga minha: trabalhar com programação. Sou apaixonado por lógica e resolução de problemas e esse é só um dos motivos por hoje eu ser Desenvolvedor Full Stack!
   
  ##
 
  ### Infos:
-- 🔭 No momento, estou buscando meu primeiro emprego como desenvolvedor.
-- 💻 Atualmente estou estudando Python e Django para desenvolvimento de banco de dados e prentendo realizar algumas projeto front com type.
+- 🔭 No momento, eu estou buscando o primeiro emprego como desenvolvedor.
+- 💻 Atualmente, estou estudando Python e Django para desenvolvimento de banco de dados e pretendo realizar alguns projetos Front com TYPE.
 - 📱  Email para contato: diego.o.guimaraes29@gmail.com
 
 ##
@@ -19,8 +19,8 @@
 ### Git Status:
 <div align="center">
   <a href="https://github.com/DiegoOlive29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoOlive29&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOlive29&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DiegoOlive29&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiegoOlive29&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ##
