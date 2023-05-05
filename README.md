@@ -11,7 +11,7 @@
 
  ### Infos:
 - 🔭 No momento, eu estou buscando o primeiro emprego como desenvolvedor.
-- 💻 Atualmente, estou estudando Python e Django para desenvolvimento de banco de dados e pretendo realizar alguns projetos Front com TYPE.
+- 💻 Atualmente, estou estudando java e C# para desenvolvimento de banco de dados e pretendo realizar alguns projetos Front com TYPE.
 - 📱  Email para contato: diego.o.guimaraes29@gmail.com
 
 ##
