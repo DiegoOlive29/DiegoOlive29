@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Diego+de+Oliveira+Guimarães;Tenho+22+anos+e+sou+de+Guarulhos+SP;Sou+um+Desenvolvedor+Full+Stack:%29)](https://git.io/typing-svg)
 
 
-### Olá, me chamo Diego Oliveira, sejam bem vindos para o meu Github!
+### Olá, me chamo Diego Oliveira, sejam bem vindos!
   
   Eu decidi sai da área da logística e buscar uma vontade antiga minha: trabalhar com programação. Sou apaixonado por lógica e resolução de problemas e esse é só um dos motivos por hoje eu ser Desenvolvedor Full Stack!
   
