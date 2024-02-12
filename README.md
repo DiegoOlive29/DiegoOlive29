@@ -11,8 +11,8 @@
 
  ### Infos:
 - 🔭 No momento, eu estou buscando o primeiro emprego como desenvolvedor.
-- 💻 Atualmente, estou estudando java e C# para desenvolvimento de banco de dados.
-- Atuo desenvolvendo projetos front-end com React em free lance.
+- 💻 Atualmente, estou estudando C# para desenvolvimento de aplicações.
+- Atuo desenvolvendo projetos front-end com React.
 - 📱  Email para contato: diego.o.guimaraes29@gmail.com
 
 ##
